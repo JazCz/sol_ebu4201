@@ -1,2 +1,2 @@
-#Materials are for discussions only
-##PLAGIARISM IS STRICTLY PROHIBITED
+# PLAGIARISM IS STRICTLY PROHIBITED
+## Materials are for discussions only
